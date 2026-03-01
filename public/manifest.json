@@ -9,7 +9,7 @@
   "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "/icons/faistasortielogo192OK.png",
+      "src": "/icons/logoFTS192OK.png",
       "sizes": "192x192",
       "type": "image/png"
     },
